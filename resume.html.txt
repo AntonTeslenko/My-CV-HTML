@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anton Teslenko - Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            padding: 0;
+            background-color: #f4f4f9;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            margin-bottom: 10px;
+        }
+        .contact-info a {
+            color: #0073e6;
+            text-decoration: none;
+        }
+        .contact-info a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Anton Teslenko</h1>
+        <p><strong>Junior QA Manual</strong></p>
+
+        <section class="contact-info">
+            <h2>Contact Information</h2>
+            <ul>
+                <li>Email: <a href="mailto:antonteslenko89@gmail.com">antonteslenko89@gmail.com</a></li>
+                <li>Mobile: +48 797 036 676</li>
+                <li>GitHub: <a href="https://github.com/AntonTeslenko" target="_blank">AntonTeslenko</a></li>
+                <li>LinkedIn: <a href="https://linkedin.com/in/anton-teslenko" target="_blank">Anton Teslenko</a></li>
+                <li>Telegram: <a href="https://t.me/antonteslenko" target="_blank">@antonteslenko</a></li>
+            </ul>
+        </section>
+
+        <section class="summary">
+            <h2>Summary</h2>
+            <p>I am a beginner in QA with a strong desire to learn and grow. I have a good understanding of testing processes, methodologies, requirements, and different types of testing. Attention to detail and a structured approach are the keys to creating high-quality products. I want to become an important part of a team where product quality is the top priority. I am ready to work hard, learn new skills, and improve myself to contribute to reliable and useful software.</p>
+        </section>
+
+        <section class="skills">
+            <h2>Technical Skills</h2>
+            <ul>
+                <li>Jira</li>
+                <li>Confluence</li>
+                <li>Charles</li>
+                <li>Postman</li>
+                <li>Selenium IDE</li>
+                <li>IntelliJ IDEA</li>
+                <li>PyCharm</li>
+                <li>Chrome DevTools</li>
+                <li>HTML/CSS</li>
+                <li>XML, JSON</li>
+                <li>Git, SourceTree, KDiff3</li>
+                <li>MySQL</li>
+                <li>Python (Basic)</li>
+                <li>Java (Basic)</li>
+                <li>JMeter</li>
+            </ul>
+        </section>
+
+        <section class="experience">
+            <h2>Experience</h2>
+
+            <h3>Assembly Line Operator</h3>
+            <p>AAM (American Axle & Manufacturing) Factory, Poland</p>
+            <p><strong>Work Period:</strong> 1.5 years – Present</p>
+            <ul>
+                <li>Performing operations on the assembly line for differential production, following technological standards.</li>
+                <li>Inspecting the quality of assembled components and finished products.</li>
+                <li>Operating and monitoring automated equipment, reporting any malfunctions.</li>
+                <li>Ensuring strict adherence to instructions and technical documentation.</li>
+                <li>Collaborating with the team to achieve production targets.</li>
+                <li>Following safety regulations and maintaining cleanliness and order at the workstation.</li>
+            </ul>
+
+            <h3>Forklift Operator</h3>
+            <p>Electrolux Factory, Poland</p>
+            <p><strong>Work Period:</strong> 5.5 years</p>
+            <ul>
+                <li>Loading and unloading goods using a forklift.</li>
+                <li>Moving finished products, components, and raw materials between production halls and warehouses.</li>
+                <li>Organising and controlling the placement of goods in warehouses according to requirements.</li>
+                <li>Ensuring the safe transportation of loads and following safety regulations.</li>
+                <li>Performing daily technical inspections and basic maintenance of the forklift.</li>
+            </ul>
+
+            <h3>Electrician (6th Rank)</h3>
+            <p>"Kametstal" Metallurgical Plant, Kamianske, Ukraine</p>
+            <p><strong>Work Period:</strong> 5.5 years</p>
+            <ul>
+                <li>Performed scheduled and emergency maintenance of electrical equipment in the oxygen-compressor unit.</li>
+                <li>Installed, serviced, and diagnosed high-voltage electrical equipment.</li>
+                <li>Ensured uninterrupted operation of compressors, pumps, and other machinery.</li>
+                <li>Troubleshot and resolved issues in electrical networks and devices.</li>
+                <li>Followed occupational safety and technical safety regulations when working with electrical systems.</li>
+            </ul>
+        </section>
+
+        <section class="education">
+            <h2>Education</h2>
+            <p>National Technical University "Dnipro Polytechnic", Dnipro, Ukraine</p>
+            <p><strong>Master’s Degree:</strong> Electromechanical Automation Systems and General Industrial Electrical Drives</p>
+            <p>Faculty of Electrical Drives (2006 - 2011)</p>
+        </section>
+
+        <section class="languages">
+            <h2>Languages</h2>
+            <ul>
+                <li>Ukrainian: Native</li>
+                <li>Polish: Upper-Intermediate</li>
+                <li>English: Intermediate</li>
+            </ul>
+        </section>
+
+        <section class="certificates">
+            <h2>Certificates</h2>
+            <ul>
+                <li>Policealna Szkoła TEB Edukacja, Świdnica, Poland</li>
+                <li>Hillel IT School (Ukraine)
+                    <ul>
+                        <li>QA Manual (2024) – Certificate available</li>
+                        <li>Python Basic (2024) – Certificate available</li>
+                    </ul>
+                </li>
+            </ul>
+        </section>
+
+        <section class="hobbies">
+            <h2>Hobbies and Interests</h2>
+            <p>I enjoy playing the guitar and singing, which allows me to express my creativity. I also practice yoga, which helps me stay physically and mentally balanced. I am proficient in touch typing. In my free time, I love reading books on various topics.</p>
+        </section>
+
+        <footer>
+            <p><strong>EU Resident Card Holder</strong></p>
+        </footer>
+    </div>
+</body>
+</html>
